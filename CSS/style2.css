@@ -1,0 +1,41 @@
+.row{
+    width: 640px;
+    color: teal;
+    border-radius: 20px;
+}
+
+#Backspace{
+    width: 80px;
+}
+
+#Tab{
+    width: 75px;
+}
+
+#CapsLk{
+    width: 80px;
+}
+
+#Enter{
+    width: 85px;
+}
+
+#Shift{
+    width: 85px;
+}
+
+#Space{
+    width: 180px;
+}
+.cont-container{
+    display: flex;
+    justify-content: center;
+}
+.border {
+    border-color:black;
+    border-style: solid;
+    width: fit-content;
+    box-sizing: border-box;
+    background-color: red;
+}
+
