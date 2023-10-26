@@ -1,41 +1,58 @@
-.row{
-    width: 640px;
+/* .row{
     color: teal;
     border-radius: 20px;
-}
+} */
 
 #Backspace{
-    width: 80px;
+    width: 195px;
 }
 
 #Tab{
-    width: 75px;
+    width: 255px;
 }
 
 #CapsLk{
-    width: 80px;
+    width: 177px;
 }
 
 #Enter{
-    width: 85px;
+    width: 192px;
 }
+#dede{
+    width: 78px;
+}
+/* #nEnter{
+    height:120px;
+} */
 
 #Shift{
-    width: 85px;
+    width: 185px;
 }
 
 #Space{
-    width: 180px;
+    width: 550px;
 }
+/* #plus{
+    height: 120px;
+} */
 .cont-container{
     display: flex;
     justify-content: center;
 }
 .border {
+    width: fit-content;
     border-color:black;
     border-style: solid;
-    width: fit-content;
     box-sizing: border-box;
     background-color: red;
 }
-
+button{
+    width: 55px;
+    height: 55px;
+    border-radius: 12px;
+    color: red;
+    background-color: cyan;
+}
+/* .row1{
+    padding-left: 12px;
+} */
